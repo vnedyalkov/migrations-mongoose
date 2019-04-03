@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 const Sequence = require('./lib/sequence');
 const errorMessages = require('./lib/error-messages');
 
+console.log(1);
+
 /**
  * Mongoose Migrations
  */
